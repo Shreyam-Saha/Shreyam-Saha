@@ -12,5 +12,10 @@
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://img.icons8.com/plasticine/2x/linkedin.png (linkedin icon with padding)
+[2.1]: https://photos.google.com/photo/AF1QipNywXpAshqV-lyYPeAVukqt8L5ynnYfOn1nhu5S (linkedin icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+
+[1]: https://twitter.com/coder_panda_
+[2]: https://www.linkedin.com/in/shreyam-saha-ab288a162/
+[6]: https://github.com/Shreyam-Saha
