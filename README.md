@@ -21,3 +21,5 @@
  
 
 <img src ="https://github.com/Shreyam-Saha/Shreyam-Saha/blob/master/just%20for%20you%20(1).png" height="500" width="950">
+
+![Shreyam's github stats](https://github-readme-stats.vercel.app/api?username=Shreyam-Saha&show_icons=true&title_color=28CC33&icon_color=EEFCEF&text_color=28CC33&bg_color=151515)
