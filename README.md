@@ -19,5 +19,5 @@
 
 [6]: https://github.com/Shreyam-Saha
  
- 
- ![My Banner](just%20for%20you.png)
+
+<img src ="https://github.com/Shreyam-Saha/Shreyam-Saha/blob/master/just%20for%20you.png" height="500" width="950">
